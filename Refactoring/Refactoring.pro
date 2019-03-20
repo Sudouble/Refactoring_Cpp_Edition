@@ -30,4 +30,10 @@ HEADERS += \
     7_6_removemiddleman.h \
     7_7_introduceforeignmethod.h \
     7_8_introducelocalextension.h \
-    7_0_overview.h
+    7_0_overview.h \
+    8_1_selfencapsulatefield.h \
+    8_2_replacedatavaluewithobject.h \
+    8_3_changevaluetoreference.h \
+    8_4_changereferencetovalue.h \
+    8_5_replacearraywithobject.h \
+    8_6_duplicateobserveddata.h
