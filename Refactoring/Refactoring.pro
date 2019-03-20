@@ -22,4 +22,12 @@ HEADERS += \
     6_8_replacemethodwithmethodobject.h \
     6_9_substitutealgorithm.h \
     7_1_movemethod.h \
-    6_0_overview.h
+    6_0_overview.h \
+    7_2_movefield.h \
+    7_3_extractclass.h \
+    7_4_inineclass.h \
+    7_5_hidedelegate.h \
+    7_6_removemiddleman.h \
+    7_7_introduceforeignmethod.h \
+    7_8_introducelocalextension.h \
+    7_0_overview.h
