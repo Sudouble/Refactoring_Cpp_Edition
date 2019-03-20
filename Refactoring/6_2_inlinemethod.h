@@ -1,6 +1,8 @@
 #ifndef INLINEMETHOD_H
 #define INLINEMETHOD_H
 
+// 适用情景：函数间，间接层多了，改成更易理解的形式
+
 #include <iostream>
 #include <string>
 #include <vector>

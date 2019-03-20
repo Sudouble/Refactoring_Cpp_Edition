@@ -1,6 +1,8 @@
 #ifndef EXTRACTMETHOD_H
 #define EXTRACTMETHOD_H
 
+//// 适用情景：函数做了不止一件事情，且抽象层级混乱
+
 #include <iostream>
 #include <string>
 #include <vector>
