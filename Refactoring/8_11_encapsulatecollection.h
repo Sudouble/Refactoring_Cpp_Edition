@@ -1,0 +1,13 @@
+#ifndef 8_11_ENCAPSULATECOLLECTION_H
+#define 8_11_ENCAPSULATECOLLECTION_H
+
+// 适用情景：
+
+
+// 原版本
+
+
+// 新版本
+
+
+#endif // 8_11_ENCAPSULATECOLLECTION_H

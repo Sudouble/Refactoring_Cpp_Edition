@@ -1,0 +1,13 @@
+#ifndef 8_13_REPLACETYPECODEWITHCLASS_H
+#define 8_13_REPLACETYPECODEWITHCLASS_H
+
+// 适用情景：
+
+
+// 原版本
+
+
+// 新版本
+
+
+#endif // 8_13_REPLACETYPECODEWITHCLASS_H
