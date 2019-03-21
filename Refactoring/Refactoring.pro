@@ -42,4 +42,6 @@ HEADERS += \
     8_15_replacetypecodewithstateorstrategy.h \
     8_7_changeone2two.h \
     8_8_changetwo2one.h \
-    8_9_magicnumber.h
+    8_9_magicnumber.h \
+    8_16_replacesubclasswithfield.h \
+    8_0_overview.h
