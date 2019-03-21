@@ -45,16 +45,16 @@ public:
         return _code;
     }
 
-    static BloodGroup* code(int arg){
-        return _values[arg];
-    }
+//    static BloodGroup* code(int arg){
+//        return _values[arg];
+//    }
 private:
-    static BloodGroup* _values[4] = {O, A, B, AB};
+//    static BloodGroup* _values[4] = {O, A, B, AB};
     int _code;
 };
 
 class Person{
-//public: //最后删去注释
+//public:
 //    static int O = BloodGroup.O->GetCode();
 //    static int A = BloodGroup.A->GetCode();
 //    static int B = BloodGroup.B->GetCode();

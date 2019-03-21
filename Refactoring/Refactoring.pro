@@ -28,7 +28,6 @@ HEADERS += \
     7_7_introduceforeignmethod.h \
     7_8_introducelocalextension.h \
     7_0_overview.h \
-    8_1_selfencapsulatefield.h \
     8_2_replacedatavaluewithobject.h \
     8_3_changevaluetoreference.h \
     8_4_changereferencetovalue.h \
@@ -38,10 +37,19 @@ HEADERS += \
     8_11_encapsulatecollection.h \
     8_12_replacerecordwithdataclass.h \
     8_13_replacetypecodewithclass.h \
-    8_14_replacetypecodewithsubclasses.h \
-    8_15_replacetypecodewithstateorstrategy.h \
     8_7_changeone2two.h \
     8_8_changetwo2one.h \
     8_9_magicnumber.h \
-    8_16_replacesubclasswithfield.h \
-    8_0_overview.h
+    8_0_overview.h \
+    9_1_decompose_conditional.h \
+    8_14_replace_typecode_with_subclasses.h \
+    8_15_replace_typecode_with_state_or_strategy.h \
+    8_16_replace_subclass_with_field.h \
+    8_1_selfencapsulate_field.h \
+    9_2_consolidate_conditional_expression.h \
+    9_3_consolidate_duplicate_conditional_fragments.h \
+    9_4_remove_control_flag.h \
+    9_5_replace_nested_conditional_with_guard_clauses.h \
+    9_6_replace_conditional_with_polymorphism.h \
+    9_7_introduce_null_object.h \
+    9_8_introduce_assertion.h
