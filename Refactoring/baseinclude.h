@@ -4,6 +4,6 @@
 #include "6_1_extractmethod.h"
 #include "6_2_inlinemethod.h"
 //#include "changesingle2two_8_7.h"
-#include "8_15_replacetypecodewithstateorstrategy.h"
+#include "8_15_replace_typecode_with_state_or_strategy.h"
 
 #endif // BASEINCLUDE_H
