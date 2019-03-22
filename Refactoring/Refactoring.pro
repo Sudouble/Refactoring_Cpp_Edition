@@ -52,4 +52,5 @@ HEADERS += \
     9_5_replace_nested_conditional_with_guard_clauses.h \
     9_6_replace_conditional_with_polymorphism.h \
     9_7_introduce_null_object.h \
-    9_8_introduce_assertion.h
+    9_8_introduce_assertion.h \
+    9_0_overview.h
