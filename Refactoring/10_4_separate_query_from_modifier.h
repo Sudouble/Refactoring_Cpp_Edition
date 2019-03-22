@@ -1,0 +1,13 @@
+#ifndef 10_4_SEPARATE_QUERY_FROM_MODIFIER_H
+#define 10_4_SEPARATE_QUERY_FROM_MODIFIER_H
+
+// 适用情景：
+
+
+// 原始版本
+
+
+// 新版本
+
+
+#endif // 10_4_SEPARATE_QUERY_FROM_MODIFIER_H

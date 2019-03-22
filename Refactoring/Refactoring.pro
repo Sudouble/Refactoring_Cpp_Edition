@@ -53,4 +53,19 @@ HEADERS += \
     9_6_replace_conditional_with_polymorphism.h \
     9_7_introduce_null_object.h \
     9_8_introduce_assertion.h \
-    9_0_overview.h
+    9_0_overview.h \
+    10_1_rename_method.h \
+    10_2_add_parameter.h \
+    10_3_remove_parameter.h \
+    10_4_separate_query_from_modifier.h \
+    10_5_parameterize_method.h \
+    10_6_replace_parameter_with_explicit_methods.h \
+    10_7_preserve_whole_object.h \
+    10_8_replace_parameter_with_methods.h \
+    10_9_introduce_parameter_object.h \
+    10_10_remove_setting_method.h \
+    10_11_hide_method.h \
+    10_12_replace_constructor_with_factory_method.h \
+    10_13_encapsulate_downcast.h \
+    10_14_replace_error_code_with_exception.h \
+    10_15_replace_exception_with_test.h
