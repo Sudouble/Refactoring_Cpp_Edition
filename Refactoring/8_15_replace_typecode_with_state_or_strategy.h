@@ -41,6 +41,7 @@
 class Engineer;
 class Salesman;
 class Manager;
+class EmployeeType;
 
 class Employee{
 private:
