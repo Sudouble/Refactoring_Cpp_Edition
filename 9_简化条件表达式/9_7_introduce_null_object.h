@@ -9,61 +9,61 @@
 using std::string;
 using std::vector;
 //// 原版本
-class BillingPlan{
-    BillingPlan* basic(){
-        return this;
-    }
-};
-class PaymentHistory{
-    int getWeeksDelinquentInLastYear(){
-        return 1;
-    }
-};
-class Customer{
-public:
-    string getName(){
-        return "123";
-    }
-    BillingPlan* getPlan(){
-        return _billing;
-    }
-    PaymentHistory *getHistory(){
-        return _paymentHistory;
-    }
+//class BillingPlan{
+//    BillingPlan* basic(){
+//        return this;
+//    }
+//};
+//class PaymentHistory{
+//    int getWeeksDelinquentInLastYear(){
+//        return 1;
+//    }
+//};
+//class Customer{
+//public:
+//    string getName(){
+//        return "123";
+//    }
+//    BillingPlan* getPlan(){
+//        return _billing;
+//    }
+//    PaymentHistory *getHistory(){
+//        return _paymentHistory;
+//    }
 
-private:
-    BillingPlan *_billing;
-    PaymentHistory *_paymentHistory;
-};
+//private:
+//    BillingPlan *_billing;
+//    PaymentHistory *_paymentHistory;
+//};
 
-class Site{
-    Customer* getCustomer(){
-        return _customer;
-    }
-    Customer *_customer;
-};
+//class Site{
+//    Customer* getCustomer(){
+//        return _customer;
+//    }
+//    Customer *_customer;
+//};
 
-void Usage(){
-    Site site;
-    Customer *customer = site.getCustomer();
-    BillingPlan *plan;
-    if (customer == nullptr)
-        plan = BillingPlan.basic();
-    else
-        plan = customer->getPlan();
-    // ...
-    string customerName;
-    if (customer == nullptr)
-        customer = "occupant";
-    else
-        customerName = customer->getName();
-    //...
-    int weeksDelinquent;
-    if (customer == nullptr)
-        weeksDelinquent = 0;
-    else
-        weeksDelinquent = customer->getHistory()->getWeeksDelinquentInLastYear();
-}
+//void Usage(){
+//    Site site;
+//    Customer *customer = site.getCustomer();
+//    BillingPlan *plan;
+//    if (customer == nullptr)
+//        plan = BillingPlan.basic();
+//    else
+//        plan = customer->getPlan();
+//    // ...
+//    string customerName;
+//    if (customer == nullptr)
+//        customer = "occupant";
+//    else
+//        customerName = customer->getName();
+//    //...
+//    int weeksDelinquent;
+//    if (customer == nullptr)
+//        weeksDelinquent = 0;
+//    else
+//        weeksDelinquent = customer->getHistory()->getWeeksDelinquentInLastYear();
+//}
 
 // 新版本
 class BillingPlan{

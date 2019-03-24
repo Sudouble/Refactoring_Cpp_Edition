@@ -1,0 +1,12 @@
+#ifndef 8_12_REPLACERECORDWITHDATACLASS_H
+#define 8_12_REPLACERECORDWITHDATACLASS_H
+
+// 适用情景：数组特定位置特定含义——果断替换掉啊
+
+
+// 见8.5
+// 原版本
+// 新版本
+
+
+#endif // 8_12_REPLACERECORDWITHDATACLASS_H

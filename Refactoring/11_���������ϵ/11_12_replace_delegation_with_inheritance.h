@@ -1,0 +1,14 @@
+#ifndef 11_12_REPLACE_DELEGATION_WITH_INHERITANCE_H
+#define 11_12_REPLACE_DELEGATION_WITH_INHERITANCE_H
+
+
+// 适用情景：11.12的反向情况。常年需要向父类请求数据的情况
+
+
+// 原始版本
+
+
+// 新版本
+
+
+#endif // 11_12_REPLACE_DELEGATION_WITH_INHERITANCE_H
